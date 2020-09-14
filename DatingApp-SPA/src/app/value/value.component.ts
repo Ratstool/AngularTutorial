@@ -24,5 +24,4 @@ export class ValueComponent implements OnInit {
         console.log(error);
       });
   }
-
 }

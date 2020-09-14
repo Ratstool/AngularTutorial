@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gotng\\DatingApp\\DatingApp.API\\DatingApp.api.csproj": {}
+    "C:\\Users\\gotng\\DatingApp\\AngularTutorial\\datingapp.api\\DatingApp.api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gotng\\DatingApp\\DatingApp.API\\DatingApp.api.csproj": {
+    "C:\\Users\\gotng\\DatingApp\\AngularTutorial\\datingapp.api\\DatingApp.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gotng\\DatingApp\\DatingApp.API\\DatingApp.api.csproj",
+        "projectUniqueName": "C:\\Users\\gotng\\DatingApp\\AngularTutorial\\datingapp.api\\DatingApp.api.csproj",
         "projectName": "DatingApp.api",
-        "projectPath": "C:\\Users\\gotng\\DatingApp\\DatingApp.API\\DatingApp.api.csproj",
+        "projectPath": "C:\\Users\\gotng\\DatingApp\\AngularTutorial\\datingapp.api\\DatingApp.api.csproj",
         "packagesPath": "C:\\Users\\gotng\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gotng\\DatingApp\\DatingApp.API\\obj\\",
+        "outputPath": "C:\\Users\\gotng\\DatingApp\\AngularTutorial\\datingapp.api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gotng\\AppData\\Roaming\\NuGet\\NuGet.Config",
