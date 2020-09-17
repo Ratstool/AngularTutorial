@@ -11,22 +11,26 @@ export class NavComponent implements OnInit {
 
   constructor(private authService: AuthService) { }
 
+  // tslint:disable-next-line: typedef
   ngOnInit() {
   }
 
+  // tslint:disable-next-line: typedef
   login(){
     this.authService.login(this.model).subscribe(next => {
       console.log('Logged in successfully');
     }, error => {
-      console.log('Failed to login');
+      console.log(error);
     });
   }
 
+  // tslint:disable-next-line: typedef
   loggedIn(){
     const token = localStorage.getItem('token');
     return !!token;
   }
 
+  // tslint:disable-next-line: typedef
   logOut(){
     localStorage.removeItem('token');
     console.log('Logged out');
